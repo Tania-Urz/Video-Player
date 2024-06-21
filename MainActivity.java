@@ -1,4 +1,4 @@
-package com.example.video_20300830;
+package com.example.videoplayerapp;
 
 import android.net.Uri;
 import android.os.Bundle;
